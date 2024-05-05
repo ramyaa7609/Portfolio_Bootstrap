@@ -1,0 +1,59 @@
+.bgimage{
+    height: 100vh;
+    background: url(futuristic-background-design_23-2148503793.avif);
+    background-size: cover;
+    position: relative;
+}
+.hero-text{
+    font-size: xx-large;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+
+
+}
+.imageAbout{
+    width: 100%;
+}
+/* .servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+} */
+
+#footer{
+    text-align: center;
+    background-color:#808080 ;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+/* .hero_title{
+    color: white;
+    margin:25%;
+    text-align: center;
+
+}
+.hero_desc{
+    color: aliceblue;
+    text-align: center;
+    margin:0%;
+
+
+} */
